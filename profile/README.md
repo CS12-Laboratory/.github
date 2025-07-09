@@ -25,7 +25,7 @@
 
 <table>
   <tr>
-    <td>🔖<strong>主要リポジトリ</strong><br><a href="https://github.com/CS12-Laboratory/MPIEMSES3D"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CS12-Laboratory&repo=MPIEMSES"></a></td>
+    <td>🔖<strong>主要リポジトリ</strong><br><a href="https://github.com/CS12-Laboratory/MPIEMSES3D"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CS12-Laboratory&repo=MPIEMSES3D-private"></a></td>
     <td><a href="https://github.com/Nkzono99/ohhelp-for-fpm"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nkzono99&repo=ohhelp-for-fpm"></a></td>
   </tr>
   <tr>
