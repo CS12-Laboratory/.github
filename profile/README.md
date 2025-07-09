@@ -1,6 +1,6 @@
 <div align="center">
 
-  <a href="https://www.lab.kobe-u.ac.jp/csi-usui/index.html"><img src="https://github.com/CS12-Laboratory/.github/blob/main/profile/home.png"></a>
+  <a href="https://www.lab.kobe-u.ac.jp/csi-usui/index.html"><img src="https://github.com/CS12-Laboratory/.github/raw/main/profile/home.png"></a>
   
   <h1>🚀 CS12 Lab, Kobe University: Simulation Code & Tool Portal</h1>
 
