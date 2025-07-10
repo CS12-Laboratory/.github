@@ -26,7 +26,7 @@
 <table>
   <tr>
     <td>🔖<strong>主要リポジトリ</strong><br><a href="https://github.com/CS12-Laboratory/MPIEMSES3D"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CS12-Laboratory&repo=MPIEMSES3D-private"></a></td>
-    <td><a href="https://github.com/Nkzono99/ohhelp-for-fpm"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nkzono99&repo=ohhelp-for-fpm"></a></td>
+    <td><br><a href="https://github.com/CS12-Laboratory/ohhelp-for-fpm"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CS12-Laboratory&repo=ohhelp-for-fpm"></a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/Nkzono99/cotocoa"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nkzono99&repo=cotocoa"></a></td>
@@ -51,7 +51,7 @@
 <table>
   <tr>
     <td>🔖<strong>主要リポジトリ</strong><br><a href="https://github.com/CS12-Laboratory/EMSES-tutorials"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CS12-Laboratory&repo=EMSES-tutorials"></a></td>
-    <td><a href="https://github.com/CS12-Laboratory/charging_simulation_set_by_EMSES"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CS12-Laboratory&repo=charging_simulation_set_by_EMSES"></a></td>
+    <td><br><a href="https://github.com/CS12-Laboratory/charging_simulation_set_by_EMSES"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CS12-Laboratory&repo=charging_simulation_set_by_EMSES"></a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/CS12-Laboratory/EMSES-benchmarks"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CS12-Laboratory&repo=EMSES-benchmarks"></a></td>
